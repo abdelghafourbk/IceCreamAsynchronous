@@ -12,4 +12,4 @@ Trying to understand better the async in JS
       #5 Select Container                ===>      2 s
       #6 Select Toppings                 ===>      3 s
       #7 Serve Ice Cream                 ===>      2 s
->>>>>>> 250446de6ea214636a5232b9f7b534268b211de3
+
